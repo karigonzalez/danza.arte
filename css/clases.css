@@ -1,0 +1,69 @@
+.clases{
+	padding: 5% 10%;
+	margin: 0px;
+	font-size: 1.4em;
+	min-height: 100%;
+	color: #192951;
+}
+
+.clases h1 {
+	color: #192951;
+	text-align: center;
+}
+.oferta .col-4-12 {
+	padding-top: 2%;
+}
+.oferta .img {
+	background-color: rgb(83, 88, 95);
+	height: 490px;
+	background-size: cover;
+	background-position: center;
+	position: relative;
+}
+.oferta .img img {
+	width: 100%;
+}
+
+.dance {
+	background-image: url(../img/dance_12.jpg);
+}
+
+.breakdance {
+	background-image: url(../img/breakdance.jpg);
+}
+
+.lirical-jazz {
+	background-image: url(../img/lirical-jazz.jpg);
+}
+
+.arabe {
+	background-image: url(../img/arabe.jpg);
+}
+
+.little {
+	background-image: url(../img/little.jpg)
+}
+
+.yoga {
+	background-image: url(../img/yoga.jpg)
+}
+
+.oferta .texto {
+	background-color: rgba(0, 0, 0, 0.7);
+	height: 150px;
+	padding: 10%;
+	text-align: center;
+	position: absolute;
+	top: 36%;
+	left: 5%;
+	width: 90%;
+
+}
+.oferta .texto p {
+	font-size: 18px;
+	padding-top: 8%;
+	color:white;
+}
+.oferta .texto h5 {
+	color: white;
+}

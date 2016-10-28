@@ -1,0 +1,73 @@
+.nosotros {
+	background-image: url(../img/dance_7.jpg);
+	font-size: 1.2em;
+	padding: 8% 30% 10%;
+	border-top: 2px solid rgb(195, 198, 197);
+	background-size: cover;
+	background-attachment: fixed;
+	text-align: center;
+	color: white;
+}
+
+.box-text {
+	background-color: rgba(0, 0, 0, 0.4);
+	padding: 8%;
+}
+
+.box-text p {
+	padding: 4% 0;
+	color: white;
+}
+
+.pilares {
+	padding: 7% 12%;
+	font-size: 1.2em;
+	background-color: rgb(220, 222, 224);
+	margin:0px;
+	background-image: url('../img/cubes.png')
+}
+
+.pilares h2 {
+	border-bottom: 1px solid gray;
+	padding-bottom: 10%;
+	margin-bottom: 10%;
+}
+
+.pilares .col-4-12 {
+	padding: 0 5%;
+	color: rgb(151, 154, 159);
+}
+
+.instructores {
+	padding: 7% 10%;
+	background-color: white;
+	margin: 0 -14px;
+	font-size: 1.6em;
+	text-align: center;
+}
+
+.instructores .col-3-12 {
+	padding-top:2%;
+}
+
+.instructores .img {
+	background-color: rgb(83, 88, 95);
+	height: 178px;
+	overflow: hidden;
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+
+.instructores .img img {
+	width: 100%;
+}
+
+.instructores .texto{
+	padding: 7% 1%;
+	text-align: left;
+}
+.instructores .texto p{
+	font-size: 18px;
+	padding-top: 6%;
+}
